@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.icons ul li{
+    list-style: none;
+    font-size: 30px;
+   
+    
+}
+.icons ul li i{
+    cursor: pointer;
+}
